@@ -1,0 +1,48 @@
+Project Description:
+  I am going to make a discord clone or something of that nature.
+  It's going to be a chat website that features forumns/servers you can enter
+  It'll be bootleg version without any of the database and all the other stuff, but 
+  will hopefully be functional
+
+Feature List:
+  - enter different servers
+  - chat with different people
+  - description on the side of either the person you're chatting or the server you're
+  on
+
+Technical Tasks:
+  - no clue, just go as i work honestly
+
+What works:
+  -servers are featured and update with a single click
+  -servers also respond nicely to clicks/hovers
+  -there's also that grey/white little thing that discord has if you pay close enough
+    attention to the servers
+  -channels also update accordingly to the server
+  -chatting, onesidedly
+
+What doesn't work:
+  -chat logs of channels are not updating accordingly when clicking channels
+  -no description
+  -unable to chat from the other side aka talk as the other person
+
+Project Evaluation:
+So first and foremost, is the website finished? No. It's close, but not really.
+I think one of the most frustrating parts of creating this was getting the data.
+Having any data to work with would have made this easier. What I mean by data are
+servers, users, and chat logs. Having an idea of what each thing needed or had 
+would have made this easier. It was also difficult coming up with this AND filling
+up said objects with information that i wasn't sure of. To sum it up, terrible
+planning.
+
+As for the next part, I think it contains plenty of HTML, CSS, and diverse javascript.
+It just isn't finished. This website will add elements, do calculations, tracks data
+and contains database like stuff such as the servers, channels in said servers, and
+the message logs (partially).
+
+I truly from the bottom of my heart believe that this was a feasible project with everything
+I learned from this class. With just the knowledge gained from this class I believe that a 
+discord clone was doable. The only reason it didn't come to fruition was because I didn't 
+plan at all whatsoever. I didn't consider the methods/attributes of the servers/channels/users/
+and so on. The main takeaway from this project for me at least is the value of planning. How much
+time and complexity is saved through proper consideration of what could happen.
